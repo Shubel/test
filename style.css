@@ -1,0 +1,11 @@
+.content {
+  text-align: center;
+  font-size: 50px;
+  background-color: blueviolet;
+}
+
+@media screen and (min-width: 1200px) {
+  div {
+    max-width: 1200px;
+  }
+}
